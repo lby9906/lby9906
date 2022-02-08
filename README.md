@@ -1,12 +1,4 @@
 ### 안녕하세요 👋
-
-블로그 : ㅁㄴㅇㅁㄴㅇ
-깃허브 : ㅁㅇㅁㅇㄴㄴㅁ
-
-경력 : ㅁㅇㅁㄴㅎ
-학력 : ㅁㄴㅇㅁㄴㅇ
-대외할동
-ㅁㄴㅇㅁㄴㅇㄴㅁ
 <!--
 **lby9906/lby9906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
